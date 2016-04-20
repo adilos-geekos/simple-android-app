@@ -2,7 +2,7 @@ package com.elmansouri.geo.test;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+//linked 
 public class Test extends AppCompatActivity {
 
     @Override
